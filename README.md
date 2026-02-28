@@ -12,6 +12,10 @@ Product Manager who builds AI products. Ships code, not just specs.
 | [AI Interview Coach](https://github.com/cla1redonald/ai-interview-coach) | Generate realistic interviewer personas with AI, then practice with streaming conversations |
 | [Prompt Evaluator](https://github.com/cla1redonald/prompt-evaluator) | A/B test prompts and compare models — Claude, GPT-4o, Gemini side-by-side with auto-scoring |
 | [AI Cost Calculator](https://github.com/cla1redonald/ai-cost-calculator) | Project AI feature costs with model comparison, margin analysis, and pricing suggestions |
+| [Weather Mood](https://github.com/cla1redonald/weather-mood) | Generative art driven by real-time weather — Canvas particles, Web Audio synthesis, and AI poetry |
+| [NYC Transit Pulse](https://github.com/cla1redonald/nyc-transit-pulse) | Interactive dashboard visualizing NYC MTA ridership — pandemic recovery, congestion pricing impact, and commute patterns |
+| [Focus Timer](https://github.com/cla1redonald/focus-timer) | Pomodoro focus timer with session history and stats |
+| [Claude PowerPoint](https://github.com/cla1redonald/claude-powerpoint-plugin) | Create professional PowerPoint presentations from Claude Code with AI image generation |
 
 ## Stack
 
