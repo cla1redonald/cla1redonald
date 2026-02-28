@@ -15,7 +15,6 @@ Product Manager who builds AI products. Ships code, not just specs.
 | [Weather Mood](https://github.com/cla1redonald/weather-mood) | Generative art driven by real-time weather — Canvas particles, Web Audio synthesis, and AI poetry |
 | [NYC Transit Pulse](https://github.com/cla1redonald/nyc-transit-pulse) | Interactive dashboard visualizing NYC MTA ridership — pandemic recovery, congestion pricing impact, and commute patterns |
 | [Focus Timer](https://github.com/cla1redonald/focus-timer) | Pomodoro focus timer with session history and stats |
-| [Claude PowerPoint](https://github.com/cla1redonald/claude-powerpoint-plugin) | Create professional PowerPoint presentations from Claude Code with AI image generation |
 
 ## Stack
 
