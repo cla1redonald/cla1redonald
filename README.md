@@ -10,7 +10,7 @@ Product Manager who builds AI products. Ships code, not just specs.
 | [FocusBoard](https://github.com/cla1redonald/focusboard) | AI-powered Kanban with natural language cards, multi-channel capture, and metrics |
 | [ProveIt](https://github.com/cla1redonald/proveit) | Validate product ideas before building — research swarms, confidence scoring, handoff decks |
 | [AI Interview Coach](https://github.com/cla1redonald/ai-interview-coach) | Generate realistic interviewer personas with AI, then practice with streaming conversations |
-| [Prompt Evaluator](https://github.com/cla1redonald/prompt-evaluator) | A/B test prompts — side-by-side comparison with auto-scored quality dimensions |
+| [Prompt Evaluator](https://github.com/cla1redonald/prompt-evaluator) | A/B test prompts and compare models — Claude, GPT-4o, Gemini side-by-side with auto-scoring |
 | [AI Cost Calculator](https://github.com/cla1redonald/ai-cost-calculator) | Project AI feature costs with model comparison, margin analysis, and pricing suggestions |
 
 ## Stack
