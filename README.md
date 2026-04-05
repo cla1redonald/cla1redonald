@@ -1,6 +1,6 @@
 # Hi, I'm Claire
 
-CPTO at MOO. Building AI products — ships code, not just specs.
+Product, Engineering & Design Leader. Ships code, not just specs.
 
 ## What I Build
 
