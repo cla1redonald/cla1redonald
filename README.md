@@ -1,6 +1,6 @@
 # Hi, I'm Claire
 
-Product, Engineering & Design Leader. Ships code, not just specs.
+Product, Engineering & Design Leader
 
 ## What I Build
 
