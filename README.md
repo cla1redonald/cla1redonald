@@ -16,3 +16,4 @@ Currently available for fractional, interim, advisory, board, and coaching engag
 - **[Roami Help](https://github.com/cla1redonald/roami-help-showcase)** — Find where to live — NLP-powered UK location discovery scoring 39,503 places across 32 data dimensions. [Live](https://roami.help).
 - **[ProveIt](https://github.com/cla1redonald/proveit)** — Validate product ideas before building — structured discovery, confidence scoring, research swarm, and technical handoff deck.
 - **[ShipIt](https://github.com/cla1redonald/shipit-v3)** — A team of 13 specialist AI agents for Claude Code — from idea to shipped software.
+- **[claude-spinner-themes](https://github.com/cla1redonald/claude-spinner-themes)** — Scottish themes for Claude Code's thinking spinner — 160 dictionary-verified Scots words with meaning-matched emoji and a safe one-line switcher.
