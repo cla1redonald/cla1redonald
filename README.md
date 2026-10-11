@@ -1,15 +1,34 @@
 # Claire Donald
 
-My career spans 20+ years across e-commerce, central government digital services, enterprise consulting, and defence. I specialise in bringing the technical, product, and commercial sides of the role together, whilst building teams and organisations with clear priorities, measurable outcomes, and a culture that grows people.    Most recently, this has included embedding AI across a business
+Twenty years in technology leadership: the British Army, global technology companies, the UK Civil Service, and most recently Chief Product and Technology Officer of a global e-commerce, design and manufacturing company. I bring the product, technology and commercial sides of a business together, and I build teams with clear priorities and measurable outcomes. Since spring 2026 my work has been AI across the whole business: hands-on with Claude for clients, and co-authoring the engineering curriculum for a frontier AI lab's engineer academy.
 
----
+Everything below is public and runnable. Where a project grew out of client work it has been rebuilt on invented data, and nothing here names a client.
 
-### Selected projects
+## What I do, and the evidence for it
 
-- **[FocusBoard](https://github.com/cla1redonald/focusboard)** — AI-powered Kanban board with natural language cards, multi-channel capture, WIP limits, and metrics dashboard.
-- **[Roami Hobbies](https://roami-hobbies.vercel.app)** — Semantic-search hobby discovery — 222 curated hobbies ranked by Claude Haiku intent parsing and OpenAI embeddings.
-- **[Weather Mood](https://github.com/cla1redonald/weather-mood)** — Generative art driven by real-time weather — Canvas particles, Web Audio synthesis, and AI poetry.
-- **[Roami Help](https://roami.help)** — Find where to live — NLP-powered UK location discovery scoring 39,503 places across 32 data dimensions.
-- **[ProveIt](https://github.com/cla1redonald/proveit)** — Evidence-based product validation — structured discovery, market and competitor research, an adversarial swarm and falsifiable pre-mortem, and a triple-output handoff bundle. Claude Code plugin + web app. [Live](https://proveit.tools).
-- **[ShipIt](https://github.com/cla1redonald/shipit-v4)** — Native-primitives build workflow for Claude Code — gate discipline and a learning loop (retro + autonomous sweeps) enforced by hooks and CI, not a roster of agents.
-- **[claude-spinner-themes](https://github.com/cla1redonald/claude-spinner-themes)** — Scottish themes for Claude Code's thinking spinner — 160 verified Scottish words with meaning-matched emoji and a safe one-line switcher.
+| Area | Evidence | Built on |
+|---|---|---|
+| Custom AI systems and MCP servers | [Kernel Keeper](https://github.com/cla1redonald/kernel-keeper), [streamdeck-claude](https://github.com/cla1redonald/streamdeck-claude), [FocusBoard](https://github.com/cla1redonald/focusboard) | Messages API, MCP |
+| Production and persistent agents | Ghillie, a rota-keeping agent built three ways (in progress, public soon) | Messages API, Agent SDK, Managed Agents |
+| Rolling AI out to non-technical teams | [ABE kit](https://github.com/cla1redonald/ai-business-enablement): the session kit, drop-in series and where-to-start method | Claude Code skills |
+| Evals, testing and observability | [skill-review](https://github.com/cla1redonald/skill-review), [self-improving-skill-agent](https://github.com/cla1redonald/self-improving-skill-agent), and a "What is tested" section in every repo here | Messages API, Managed Agents |
+| Compliance and governance | [Kernel Keeper](https://github.com/cla1redonald/kernel-keeper): a named person elects every change. [ABE kit](https://github.com/cla1redonald/ai-business-enablement): names tokenised at intake, audited baselines | |
+| Business change | [ABE kit](https://github.com/cla1redonald/ai-business-enablement), [team-os](https://github.com/cla1redonald/team-os) | |
+| AI in the software lifecycle | [shipit-v4](https://github.com/cla1redonald/shipit-v4), [agent-sandbox](https://github.com/cla1redonald/agent-sandbox), [claude-html-deck](https://github.com/cla1redonald/claude-html-deck) | Claude Code |
+
+## Projects
+
+- **[Kernel Keeper](https://github.com/cla1redonald/kernel-keeper)**: patrols a team's AI memory and the skills and agents that act on it for rot. AI drafts the fix, a named human signs, a deterministic clerk applies. Companion to team-os.
+- **[ABE kit](https://github.com/cla1redonald/ai-business-enablement)**: a two-week AI readiness diagnostic. Skills draft, scripts check, the consultant decides. Runs end to end on an invented freight company in about a minute.
+- **[ProveIt](https://github.com/cla1redonald/proveit)**: validate a product idea before building it. Structured discovery, market and competitor research, an adversarial swarm and a falsifiable pre-mortem. Claude Code plugin and web app, [live](https://proveit.tools).
+- **[FocusBoard](https://github.com/cla1redonald/focusboard)**: a Kanban board with natural-language cards, capture from several channels, WIP limits and a metrics dashboard, with an MCP server behind a claude.ai connector.
+- **[ShipIt v4](https://github.com/cla1redonald/shipit-v4)**: a build workflow for Claude Code with gate discipline and a learning loop enforced by hooks and CI rather than prose.
+- **[team-os](https://github.com/cla1redonald/team-os)**: the shared context layer a team's AI runs on. A worked, forkable bundle for an invented open-finance company.
+- **[self-improving-skill-agent](https://github.com/cla1redonald/self-improving-skill-agent)**: a Managed Agents run that iterates a skill against a deterministic eval until it clears a pass-rate target.
+- **[skill-review](https://github.com/cla1redonald/skill-review)**: a skill that reviews other skills before they enter an internal marketplace, with a free deterministic pre-check in front of it.
+- **[agent-sandbox](https://github.com/cla1redonald/agent-sandbox)**: run AI coding agents on a local model inside a kernel-level sandbox. Private, offline, no API cost.
+- **[claude-html-deck](https://github.com/cla1redonald/claude-html-deck)**: executive-grade HTML slide decks from Claude Code, re-skinnable, print-ready, deployable behind a password.
+- **[de-ai-ify](https://github.com/cla1redonald/de-ai-ify)**: strips AI-sounding jargon out of text. Word plugin and [web tool](https://de-ai-ify.vercel.app).
+- **[streamdeck-claude](https://github.com/cla1redonald/streamdeck-claude)**: Approve and Deny for Claude's tool calls on a physical Stream Deck button, through a small local broker and an MCP server.
+- **[Weather Mood](https://github.com/cla1redonald/weather-mood)**: generative art driven by live weather, with a poem, a voice and a score. The fun one. [Live](https://weather-mood-chi.vercel.app).
+- **[claude-spinner-themes](https://github.com/cla1redonald/claude-spinner-themes)**: Scottish themes for Claude Code's thinking spinner. 160 verified Scottish words with meaning-matched emoji and a safe one-line switcher.
