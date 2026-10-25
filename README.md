@@ -1,6 +1,6 @@
 # Claire Donald
 
-Twenty years in technology leadership: the British Army, global technology companies, the UK Civil Service, and most recently Chief Product and Technology Officer of a global e-commerce, design and manufacturing company. I bring the product, technology and commercial sides of a business together, and I build teams with clear priorities and measurable outcomes. Since spring 2026 my work has been AI across the whole business: hands-on with Claude for clients, and co-authoring the engineering curriculum for a frontier AI lab's engineer academy.
+Twenty years in technology leadership: the British Army, global technology companies, the UK Civil Service, and most recently Chief Product and Technology Officer of a global e-commerce, design and manufacturing company. I bring the product, technology and commercial sides of a business together, and I build teams with clear priorities and measurable outcomes. Since spring 2026 my work has been AI across the whole business: hands-on with Claude for clients, and co-authoring the engineering curriculum for a frontier AI lab's forward-deployed engineer academy.
 
 Everything below is public and runnable. Where a project grew out of client work it has been rebuilt on invented data, and nothing here names a client.
 
